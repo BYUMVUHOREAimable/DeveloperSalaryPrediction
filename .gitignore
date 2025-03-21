@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Saved model steps
+saved_steps.pkl
+
+# Stack Overflow directory (if not required)
+stackoverflow-developer-survey-2024/
+
+# Python cache
+*.pyc
+
+# Environment variables
+.env
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# IDE directories
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
